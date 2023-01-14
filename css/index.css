@@ -1,0 +1,10 @@
+.downloadTxt, .downloadImg, .closeBtn {
+    cursor: pointer;
+}
+.closeBtn{
+    margin-top: 3px;
+}
+
+.closeBtn:hover{
+    color: green;
+}
